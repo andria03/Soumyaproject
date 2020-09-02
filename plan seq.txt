@@ -1,0 +1,18 @@
+
+
+
+
+form
+1.name
+2.play
+3.choose colour
+4.small seq pic 
+5.seven rand card to player
+
+
+game
+1.board
+2.stack of cards 
+3.coins=40
+4.button for each player to choose the card 
+5.place cards 
